@@ -1,2 +1,2 @@
-# my-site-test
-testing website with gh-pages!
+# My awesome websit
+Awesome data science pages
